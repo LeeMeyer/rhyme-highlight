@@ -6,7 +6,7 @@
 ## Dependencies
 
 [rhyme-detector](https://www.npmjs.com/package/rhyme-detector) [mark.js](https://www.npmjs.com/package/mark.js) [randomcolor](https://www.npmjs.com/package/randomcolor) 
-[Rangy](https://www.npmjs.com/package/rangy) [Vue](https://www.npmjs.com/package/vue) 
+[rangy](https://www.npmjs.com/package/rangy) [vue](https://www.npmjs.com/package/vue) 
 ## Install
 
 Using npm:
